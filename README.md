@@ -1,2 +1,2 @@
 # games_n_that
-Bio for Games site
+Bio for Web development profile
